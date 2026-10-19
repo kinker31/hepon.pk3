@@ -1,0 +1,86 @@
+[enu default]
+ORBGET =		"Sparkly Orb";
+BIGORBGET =		"Sparklier Orb";
+GOLDSHIELDGET =	"Fool's Gold Shield";
+COOLSHIELDGET =	"Protectorate Shield";
+ORBTAG =	"Sparklies";
+
+SELECTED =	"Wepon mode %s has been selected.\n"
+			"It'll cost you about %d shinies.\nPress Zoom to confirm.";
+CANTSWAP =	"Can't swap to something you're already using.";
+CANTMODE =	"The tome's power forbids this action for now.";
+CANTPICK =	"You're already using this mode, silly.";
+BROKEBOI =	"You don't own enough sparklies for that.";
+MANAYOUSURE =	"Hold down the zoom key to confirm your purchase.";
+MANANOREFUNDS =	"New wepon mode selected!\nRemember, no refunds!";
+MANADEBUG =		"Spending skipped, here's the weapon mode.";
+MODEFB =	"If you're seeing this in-game, I fucked something up.";
+BIRBSWAP =	"Phoenix Curse Mode hath been alternated.";
+
+
+HELF3WOW = "Potent Bru(tm)";			HELF3TAG = "Potent Brew";
+HELF4WOW = "Dangerous Drink";			HELF4TAG = "Sludgy Catylyst";
+BOOK2WOW = "Power at a Price";			BOOK2TAG = "Cursed Power Tome";
+BOOK3WOW = "Tyketto's Personal Book";	BOOK3TAG = "Super Power Tome";
+QUADWOW = "A damage-boosting ring";		QUADTAG = "Qaud Damage Ring";
+SUPATIME = "Ancient Timebomb";			SUPAMINE = "Ancient Landmine";
+SUPABOUNCE = "Bouncy Timebomb";			SUPACLUST = "Cluster Timebomb";
+ICEYWOW = "Slippery Sphere";			ICEYTAG = "Slipsphere";
+
+STICKOUCH =			"%k smashed in %o's head.";
+TAGSTICK =			"Pinata Stick";
+SUPASTICKOUCH =		"%k crunched %o's pelvis.";
+TAGSUPASTICK =		"Angry Pinata Stick";
+FAPHANDWOW =		"Steel Hands of Ouchiness";
+FAPHANDOUCH =		"%o's life is now the property of %k.";
+TAGFAPHAND =		"Big Iron Fist";
+SUPAFAPHANDOUCH =	"%o became an undead servant to %k.";
+TAGSUPAFAPHAND =	"Bigger Iron Fist";
+WANDWOW =			"Wand of Elves (how'd you lose this?)";
+WANDOUCH =			"%k cherry-tapped %o 'till %g died.";
+TAGWAND =			"Elfy Wand";
+SUPAWANDOUCH =		"%o's torso now has a big, wand-induced hole through it. "
+					"Nice one, %k!";
+TAGSUPAWAND =		"Elfier Wand";
+ARROWDWOW =			"Crossbow, with Overloading Support";
+ARROWDOUCH =		"%k's bow and arrow approach won against %o.";
+TAGARROWD =			"Crossbow Workhorse";
+SUPARROWDOUCH =		"%k's leet archery skills turned %o into a makeshift quiver.";
+TAGSUPARROWD =		"MOAR ARROWS";
+DAGRONWOW =			"Gun of the Spamfire Dragon";
+DAGRONOUCH =		"%k sprayed, prayed, and ultimately murdered %o horribly.";
+TAGDAGRON =			"Dagron's Claw";
+SUPADAGRONOUCH =	"%o should not have been standing in the general direction "
+					"of %k. Stupid.";
+TAGSUPADAGRON =		"Mr. Boltstorm(tm)";
+STANWOW =			"The Devil's Big, Bony Rod";
+STANOUCH =			"%k's Stan-atic energy made pretty short of %o.";
+TAGSTAN =			"Devilish Rod";
+SUPASTANOUCH =		"%o found %hself cast into the damp locker room pit, all "
+					"thanks to %k.";
+TAGSUPASTAN =		"Coach Z Rod";
+BIRBWOW =			"Engage Firebirb Airstrike!";
+BIRBOUCH =			"Target: %o. Birbs: Many. Result: Big Sucess!";
+ICEBIRBOUCH =		"%k permafrosted %o with a most unlikely weapon.";
+TAGBIRB =			"Birbrod";
+SUPABIRBOUCH =		"%o experienced a war crime, courtesy of %k.";
+SUPAICEBIRBOUCH =	"%o got to experience absolute zero, thanks to %k."
+TAGSUPABIRB =		"Warcrime Rod";
+BALLGUNWOW =		"Very Buffed Firemace";
+BALLGUNOUCH =		"%o found out the hard way about mocking someone "
+					"with a Firemace.";
+BALLGUNOUCH =		"%o fell victim to the Firemace's cleanup job.";
+TAGBALLGUN =		"Recursive Firemace";
+SUPABALLGUNOUCH =	"A massive chunk of real estate, with %o somewhere within "
+					"the vicinity, kicked the bucket.";
+TAGSUPABALLGUN =	"Pure Madness";
+
+TXT_DEFAULTPICKUPMSG =
+"Hello, I am the Englishman who went up a hill, and came down with all the "
+"undefined pickups, leaving, of course, the inhabitants of the hill with no "
+"undefined pickups, therefore bestowing the term 'selfish' upon myself.";
+
+TXT_CHEATIDDQD = "Wrong game, silly.";
+TXT_CHEATIDKFA = "And now, The Bsky.app experience!";
+SECRETMESSAGE = "wow'eth! thou'st secret!";
+

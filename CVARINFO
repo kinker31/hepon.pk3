@@ -1,0 +1,4 @@
+server bool manasystem = true;
+server noarchive bool manadebug = false;
+server bool armors;
+server bool exitem = true;

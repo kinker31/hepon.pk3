@@ -1,0 +1,24 @@
+$random misc/secret {s0 s1 s2 s3 s4}
+$random byenow {q0 q1 q2 q3 q4}
+
+$limit weapons/bowhit 2
+$limit weapons/hornrodhit 4
+
+s0 = "sounds/SECRET/SECRET0"
+s1 = "sounds/SECRET/SECRET1"
+s2 = "sounds/SECRET/SECRET2"
+s3 = "sounds/SECRET/SECRET3"
+s4 = "sounds/SECRET/SECRET4"
+
+q0 = "sounds/OKBYE/OKBYE0"
+q1 = "sounds/OKBYE/OKBYE1"
+q2 = "sounds/OKBYE/OKBYE2"
+q3 = "sounds/OKBYE/OKBYE3"
+q4 = "sounds/OKBYE/OKBYE4"
+
+hepon/die =		"sounds/DIE"
+hepon/swap =	"sounds/SNAPPY"
+hepon/voip =	"sounds/VOIP"
+
+//Good luck trying to 'le no chicken' your way out of this one.
+world/vmabort = "sounds/UZDEAD"

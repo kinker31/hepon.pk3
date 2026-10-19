@@ -1,0 +1,12 @@
+GameInfo
+{
+	PlayerClasses = "Freechelf"
+	QuitMessages =  "$QUIT1" , "$QUIT2" , "$QUIT3" , "$QUIT4" , "$QUIT5" ,
+					"$QUIT6" , "$QUIT7" , "$QUIT8" , "$QUIT9" , "$QUIT10",
+					"$QUIT11", "$QUIT12", "$QUIT13", "$QUIT14", "$QUIT15",
+					"$QUIT16", "$QUIT17", "$QUIT18", "$QUIT19", "$QUIT20",
+					"$QUIT21", "$QUIT22", "$QUIT23", "$QUIT24", "$QUIT25"
+	AddEventHandlers =  "ReplaceThatCrap", "DroppyOrb", "UZDoomDiesWhenItsKilled"
+	QuitSound = "byenow"
+	TitlePage = "EPICSTITTL"
+}

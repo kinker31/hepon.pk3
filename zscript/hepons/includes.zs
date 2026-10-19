@@ -1,0 +1,7 @@
+#include "./melee.zs"
+#include "./goldwand.zs"
+#include "./corssbow.zs"
+#include "./clawdagron.zs"
+#include "./stanstaff.zs"
+#include "./birbstick.zs"
+#include "./macetwo.zs"

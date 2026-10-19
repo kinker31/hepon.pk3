@@ -1,0 +1,8 @@
+ifdef BaseHepon {
+	type WhackStick: HITSCAN MELEE WIMPY;
+	type FapHands: HITSCAN MELEE;
+	type ElfWand: HITSCAN WIMPY;
+	# Stanstaff/Mace Two already has bouncy projectiles
+	disable SpookyStaff: TFLV_Upgrade_BouncyShots;
+	disable Maceception: TFLV_Upgrade_BouncyShots;
+}

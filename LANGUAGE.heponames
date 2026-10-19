@@ -1,0 +1,15 @@
+[enu default]
+//Fallback Names
+W0N1 = "Baseline";	W0N2 = "Alternate";	W0N3 = "Inverted";	W0N4 = "Exaggerated";
+//Gold Wand
+W1N1 = "Goldwand";	W1N2 = "Quickshot";	W1N3 = "Longshot";	W1N4 = "Shotwand";
+//Crossbow
+W2N1 = "Bowshot";	W2N2 = "Wayfarer";	W2N3 = "Boltstorm";	W2N4 = "Big Bois";
+//Dragon's Claw
+W3N1 = "Clawshot";	W3N2 = "Fixedshot";	W3N3 = "Snoipah";	W3N4 = "Draginbarf";
+//Hellstaff
+W4N1 = "Staffshot";	W4N2 = "Focused";	W4N3 = "Lobshot";	W4N4 = "Heavy Duty";
+//Phoenix Rod
+W5N1 = "Flameboys";	W5N2 = "Smarties";	W5N3 = "Freezer";	W5N4 = "Sol's Wrath";
+//Flamemace
+W6N1 = "Firemace";	W6N2 = "Altspawn";	W6N3 = "Flakstorm";	W6N4 = "Oh Me, Oh My";

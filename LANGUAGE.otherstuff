@@ -1,0 +1,66 @@
+[enu default]
+OK_START =	"OK start";
+HOPTION =	"Option for hepon";
+N_HOPTION =	"Option for Not hepon";
+SAVEYS =	"Your Savefiles";
+FUCK_THIS =	"Yeah, Uh, No.";
+
+OPTITLE =	"Option for Hepon";
+RESET_AFTER =	"*: Reset the map after modifying this!";
+MANA_T =	"Mana System *:";
+MANA_F =	"Toggles the sparkly orbs. Can be traded for more attacks.";
+MANA_C1 =	"Select Normal Attack:";
+MANA_C2 =	"Select Alternate Attack:";
+MANA_C3 =	"Select Inverted Attack:";
+MANA_C4 =	"Select Exaggerated Attack:";
+EXARM_T =	"Extra Armors *:";
+EXARM_F =	"Spawns armor variants with more protection to 'em.";
+EXITM_T =	"Extra Inventory Crap *:";
+EXITM_F =	"Gives you a lot more unique inventory stuff.";
+EXITM_F2 =	"Be careful using some of them, they might hurt you.";
+
+//Most of these are from The Faces of Evil.
+QUIT1 =		"Oh come on, elves can't be THAT bad.";
+QUIT2 =		"My boy, these guns are what ALL true warriors strive for!";
+QUIT3 =		"See how D'Sparil makes HIS warriors!";
+QUIT4 =		"At last, you have the vision to find my house!";
+QUIT5 =		"Oh goodie; Mashed Corvus for the main course!";
+QUIT6 =		"Hey! Wanna fight the forces of evil in Korodai?";
+QUIT7 =		"Join me, Corvus, and I will make your face the greatest in "
+			"Pathorsis, or else you will die!";
+QUIT8 =		"Such is the power of D'sparil that he can kill with a single look!";
+QUIT9 =		"Consider Lupay, the most dangerous of D'Sparil's minions.";
+QUIT10 =	"You defeat D'sparil by throwing a book, now get on the fucking "
+			"carpet!"; //iTeachVader - Alternate Endings
+QUIT11 =	"A whole month gone, and still no word.";
+QUIT12 =	"And the last word he spoke, as his head rolled across the floor "
+			"was...\n\n\"'WAAAAAAAAAAAAARGH!!!\""; //Insomniac Ren
+QUIT13 =	"I saw a mudcrab the other day, filthy things."; //Skyrim
+QUIT14 =	"Sorry, no funny quit message here.\nThey can't all be winners.";
+QUIT15 =	"Enabling Sparklies lets you acess even more modes of firing, just "
+			"in case the weapons weren't overpowered enough!";
+QUIT16 =	"Your melee waepons don't have any special attacking modes. Sorry.";
+QUIT17 =	"If thou'st need to take thy olde dump, firste ditch'eth the "
+			"terrib'leth butcher'ed olde English'e.";
+QUIT18 =	"Guns don't kill people, wands do!\n"
+			"Yeah, old joke, but who's keeping track.";
+QUIT19 =	"n o r d    m e a d"; //Skyrim Fansong
+QUIT20 =	"Stuffing 150+ functions in a base class is not a good idea.";
+QUIT21 =	"If you're familiar with how the fists work in Marathon, "
+			"you'll probably find the staff to be useful in a pinch.";
+QUIT22 =	"...what? Were you expecting a certain dragon?"; //Guncaster (or: a better mod)
+QUIT23 =	"Too much magic!\nTOO MUCH MAGIC!!!"; //Scoot - TF2
+QUIT24 =	"\"E!? YOU SOUND JUST LIKE MINI-ME FROM AUSTIN POWERS!\""; //TearOfGrace - Gollum
+QUIT25 =	"It's nice to see Vasali again."; //I've missed you, VLIF.
+
+CRASH_0 =	"Thou art screwed.";
+CRASH_1 =	"NO! NOT INTO THE PIT! IT BURNS!";
+CRASH_2 =	"Don't worry, the UZDoom team's working hard on a way to "
+			"blame this on Graf Zahl.";
+CRASH_3 =	"What a greatly-written mod this is!";
+CRASH_4 =	"Might've been the projectile code.";
+CRASH_5 =	"Do you know what it means when you lose your last VM stack?";
+CRASH_6 =	"Pointer and parent-child object relationships are not fun to deal with.";
+CRASH_7 =	"You didn't summon the secret thingy to get this to pop up, did you?";
+
+CRASH_WOW =	"If the problem persists, prod me with a large stick or something.";

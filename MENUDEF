@@ -1,0 +1,35 @@
+ListMenu "MainMenu"
+{
+	StaticPatch 90, -3, "M_HTIC"
+	Position 90, 76
+	CenterMenu
+	TextItem "$OK_START", 'n', "PlayerclassMenu"
+	TextItem "$HOPTION", 'h', "HeponOptions"
+	TextItem "$N_HOPTION", 'o', "OptionsMenu"
+	TextItem "$SAVEYS", 's', "GameFilesMenu"
+	TextItem "$FUCK_THIS", 'q', "QuitMenu" 
+}
+
+
+OptionMenu "HeponOptions"
+{
+	ScrollTop 1
+	Title "$OPTITLE"
+	StaticText "$RESET_AFTER", "Green"
+	StaticText ""
+	Option "$MANA_T", "manasystem", "onoff"
+	StaticText "$MANA_F", "Gray"
+	StaticText ""
+	Control "$MANA_C1", "+user1"
+	Control "$MANA_C2", "+user2"
+	Control "$MANA_C3", "+user3"
+	Control "$MANA_C4", "+user4"
+	StaticText ""
+	Option "$EXARM_T", "armors", "onoff"
+	StaticText "$EXARM_F", "Gray"
+	StaticText ""
+	Option "$EXITM_T", "exitem", "onoff"
+	StaticText "$EXITM_F", "Gray"
+	StaticText "$EXITM_F2", "Gray"
+	StaticText ""
+}
